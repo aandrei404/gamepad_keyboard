@@ -1,0 +1,6 @@
+.vscode/
+build/
+dist/
+venv/
+main.spec
+Makefile
