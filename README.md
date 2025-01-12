@@ -1,6 +1,6 @@
 # Gamepad keyboard
 
-Small stupid project I made in one night because I wanted to type using a Xbox360 controller instead of my keyboard + mouse. It was good for a couple of laughs with my roommate but I doubt someone will ever use this professionally...
+Small stupid project I made in one night because I wanted to type using a Xbox360 controller instead of my keyboard + mouse. It was good for a couple of laughs with my roommate but I doubt someone will ever use this professionally... I used [XInput](https://github.com/Zuzu-Typ/XInput-Python) to interact with the Gamepad and [PyAutoGUI](https://github.com/asweigart/pyautogui/tree/master) for keyboard-related tasks.
 
 ## How this works
 
